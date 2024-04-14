@@ -13,6 +13,11 @@ https://www.cs.cmu.edu/~mgormley/courses/10601/ -- Dr. Matt Gormley
 ## In Progress:
 https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=StanfordOnline
 
+## Starring Blogs:
+https://karpathy.github.io/
+https://blog.gregbrockman.com/
+https://kguttag.com/about-karl-guttag/
+
 
 
 
