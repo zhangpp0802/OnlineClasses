@@ -7,8 +7,11 @@ https://www.cs.cornell.edu/courses/cs5670/2021sp/lectures/lectures.html -- Dr. N
 http://16385.courses.cs.cmu.edu/fall2022/ -- Dr. Matthew O'Toole
 
 
-## In Progress:
+## Others:
 https://www.cs.cmu.edu/~mgormley/courses/10601/ -- Dr. Matt Gormley
+
+## In Progress:
+https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=StanfordOnline
 
 
 
