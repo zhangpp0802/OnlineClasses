@@ -9,6 +9,10 @@ http://16385.courses.cs.cmu.edu/fall2022/ -- Dr. Matthew O'Toole
 
 ## Others:
 https://www.cs.cmu.edu/~mgormley/courses/10601/ -- Dr. Matt Gormley
+https://cseweb.ucsd.edu/~tzli/cse168/sp2023/ -- rendering
+https://cseweb.ucsd.edu/~tzli/cse272/wi2024/ -- Image Synthesis
+https://cseweb.ucsd.edu/~tzli/cse291/sp2024/ -- Differential Programming
+
 
 ## In Progress:
 https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=StanfordOnline
