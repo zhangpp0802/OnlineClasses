@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2N
 https://karpathy.github.io/
 https://blog.gregbrockman.com/
 https://kguttag.com/about-karl-guttag/
+https://www.longluo.me/
 
 
 
