@@ -17,6 +17,7 @@ https://cseweb.ucsd.edu/~tzli/cse291/sp2024/ -- Differential Programming
 https://raytracing.github.io/ -- graphics
 https://www.pbr-book.org/ -- graphics
 https://www.deeplearningbook.org/ -- ml
+https://www.csun.edu/~ctoth/Handbook/HDCG3.html -- computational geometry
 
 
 ## In Progress:
