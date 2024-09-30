@@ -28,6 +28,9 @@ https://blog.gregbrockman.com/
 https://kguttag.com/about-karl-guttag/
 https://www.longluo.me/
 
+## Other Webinars and Seminars
+https://games-cn.org/
+
 
 
 
